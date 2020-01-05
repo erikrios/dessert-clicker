@@ -78,7 +78,7 @@ class MainActivity : AppCompatActivity() {
 
         // Make sure the correct dessert is showing
         binding.dessertButton.setImageResource(currentDessert.imageId)
-        Log.i("MainActivity", "onCrate Called")
+        Log.i("MainActivity", "onCreate Called")
     }
 
     /**
