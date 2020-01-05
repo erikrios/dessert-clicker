@@ -16,7 +16,6 @@ package com.erikriosetiawan.dessertclicker
 // * limitations under the License.
 // */
 //
-//package com.dessertclicker.dessertclicker
 //
 //import android.os.Handler
 //import timber.log.Timber
